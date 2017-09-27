@@ -11,6 +11,7 @@ namespace mygithubdemo
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("第二局化");
         }
     }
 }
